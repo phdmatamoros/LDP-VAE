@@ -1,9 +1,9 @@
 # LDP-VAE
-This repository contents the information to reproduce the results presented in the conference EDBT-ICDT 2022
+This repository contents the information to reproduce the results presented in the conference [EDBT-ICDT 2022](http://edbticdt2023.cs.uoi.gr/)
 
 In this experiments, we propose use VAE in LDP approach
 
-User.py encodes users data using Hash Functions as suggested in https://ieeexplore.ieee.org/document/8306916
+User.py encodes users data using Hash Functions as suggested in [LoPub](https://ieeexplore.ieee.org/document/8306916)
 
 Vae_TrainTest-RealDataset.py trains all the attributes available in dataset, then the original dataset is encoded and pertubed
   to be analyzed using the latent space created by VAE.
