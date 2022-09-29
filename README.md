@@ -7,8 +7,8 @@ User.py encodes users data using Hash Functions as suggested in [LoPub](https://
 
 Vae_TrainTest-RealDataset.py trains all the attributes available in dataset, then the original dataset is encoded and pertubed
   to be analyzed using the latent space created by VAE.
-Results-VAE.py joins the results created by VAE
-Final_Evaluation_AVD.py computes LASSO and AVD distance
+Results-VAE.py joins the results created by VAE.
+Final_Evaluation_AVD.py computes LASSO and AVD distance.
 
 
 This experiments were run on a machine with Intel Core i7-12700H with a GPU NVIDIA GeForce RTX 3070Ti
@@ -18,4 +18,4 @@ Python 3.9.12
 ![Semantic description of image](Blockdiagram.jpg)
 
 
-pip list is available in requieremnts.txt
+pip list is available in requierements.txt
