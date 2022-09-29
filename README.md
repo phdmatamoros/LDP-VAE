@@ -13,7 +13,7 @@ Final_Evaluation_AVD.py computes LASSO and AVD distance.
 
 This experiments were run on a machine with Intel Core i7-12700H with a GPU NVIDIA GeForce RTX 3070Ti
 
-Python 3.9.12
+Python 3.9.12 and CUDA version 11.6
 
 ![Semantic description of image](Blockdiagram.jpg)
 
